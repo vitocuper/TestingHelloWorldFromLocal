@@ -9,6 +9,7 @@ public class HelloToAll {
 		//otros comentarios mas
 		System.out.println("tercera linea");
 		//tercer comentario
+		System.out.println("comentario en new");
 		
 	}
 
